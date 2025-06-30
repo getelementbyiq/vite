@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2025-06-30T20:25:10.846Z",
+  "git": {
+    "originalUrl": "https://github.com/user/portfolio",
+    "forkUrl": "https://github.com/user/portfolio/fork",
+    "branch": "main",
+    "lastCommit": null
+  },
+  "user": {
+    "id": "user-placeholder-001",
+    "name": "User",
+    "email": null
+  },
+  "project": {
+    "name": "portfolio8",
+    "type": "web-project"
+  },
+  "thumbnail": {
+    "filename": "thumbnail.png",
+    "created": "2025-06-30T20:25:10.846Z",
+    "format": "png"
+  },
+  "metadata": {
+    "detectedUrls": [],
+    "createdBy": "Unicase IDE",
+    "version": "2.0.0"
+  }
+}
